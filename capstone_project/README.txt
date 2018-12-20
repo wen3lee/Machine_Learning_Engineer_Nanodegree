@@ -1,6 +1,6 @@
 - machine_learning_engineer_nanodegree_capstone.pdf is the report of the capstone project   
 
-- santas_mission_final.html is output from santas_mission.ipynb  
+- santas_mission.html is output from santas_mission.ipynb  
 
 - Environment 
 Python 3.6.5 
