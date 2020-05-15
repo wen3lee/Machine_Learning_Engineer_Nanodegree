@@ -1,8 +1,8 @@
-machine learning engineer nanodegree - udacity
+Machine Learning Engineer Nanodegree
 
 2018/6-2018/12
 
-include projects:  
+Include projects:  
 * boston_housing_project:   
 predicting boston housing prices project  
 * finding_donors_project:   
